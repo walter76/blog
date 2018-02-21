@@ -1,4 +1,5 @@
 ---
+layout: single
 title:  "How to Work on a Branch with GitHub"
 date:   2018-02-20 23:09:01 +0100
 categories: git
