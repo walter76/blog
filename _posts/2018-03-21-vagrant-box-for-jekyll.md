@@ -29,3 +29,6 @@ sudo gem install bundler
 sudo apt-get install libffi-dev
 sudo apt-get install libcurl4-openssl-dev
 https://kvz.io/blog/2013/01/16/vagrant-tip-keep-virtualbox-guest-additions-in-sync/
+https://stackoverflow.com/questions/23840098/empty-reply-from-server-cant-connect-to-vagrant-vm-w-port-forwarding
+
+ bundle exec jekyll serve --force_polling --port 8090 --host 0.0.0.0
